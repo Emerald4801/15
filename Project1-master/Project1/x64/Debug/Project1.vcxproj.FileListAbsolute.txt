@@ -1,0 +1,3 @@
+C:\Users\Emerald_\Desktop\ЛР по Алго\Project1-master\Project1-master\Project1\x64\Debug\Project1.vcxprojAssemblyReference.cache
+C:\Users\Emerald_\Desktop\ЛР по Алго\Project1-master\Project1-master\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\Emerald_\Desktop\ЛР по Алго\Project1-master\Project1-master\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
